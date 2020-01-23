@@ -3,8 +3,5 @@ module.exports = {
   env: {
     jest: true
   },
-  plugins: ['jest'],
-  rules: {
-    'object-curly-newline': 'off',
-  }
+  plugins: ['jest']
 };
